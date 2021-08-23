@@ -1,3 +1,3 @@
 [submodule "benchmark-vertx-vs-go-resources"]
-	path = benchmark-vertx-vs-go-resources
+	active = true
 	url = https://github.com/noelchavezsimbron/benchmark-vertx-vs-go-resources
