@@ -1,0 +1,9 @@
+[submodule "resources"]
+	path = resources
+	url = https://github.com/noelchavezsimbron/benchmark-vertx-vs-go-resources
+[submodule "ms-vertx-java"]
+	path = ms-vertx-java
+	url = https://github.com/noelchavezsimbron/benchmark-vertx-vs-go-ms-vertx-java
+[submodule "ms-golang"]
+	path = ms-golang
+	url = https://github.com/noelchavezsimbron/benchmark-vertx-vs-go-ms-golang
